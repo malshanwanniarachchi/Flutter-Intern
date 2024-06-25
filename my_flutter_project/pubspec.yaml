@@ -1,0 +1,4 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  # Add any other dependencies your app requires
